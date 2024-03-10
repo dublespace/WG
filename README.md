@@ -3,7 +3,7 @@ WireGuard установка для Ubuntu, Debian, AlmaLinux, Rocky Linux, Cent
 
 Этот скрипт позволит вам настроить свой собственный VPN-сервер не более чем за минуту, даже если вы раньше не использовали WireGuard. Он был разработан таким образом, чтобы быть максимально ненавязчивым и универсальным.
 
-### Installation
+### Установка
 Запустите скрипт и следуйте инструкциям помощника:
 
 `wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh`
