@@ -6,6 +6,6 @@ WireGuard установка для Ubuntu, Debian, AlmaLinux, Rocky Linux, Cent
 ### Установка
 Запустите скрипт и следуйте инструкциям помощника:
 
-`wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh`
+`wget https://github.com/dublespace/WG -O wireguard-install.sh && bash wireguard-install.sh`
 
 Как только он завершится, вы можете запустить его снова, чтобы добавить больше пользователей, удалить некоторых из них или даже полностью удалить WireGuard.
